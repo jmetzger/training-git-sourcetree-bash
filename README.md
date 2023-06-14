@@ -4,7 +4,10 @@
 
   1. Geschichte / Grundlagen 
      * [GIT Pdf](http://schulung.t3isp.de/documents/pdfs/git/git-training.pdf)
-     
+   
+  1. Workflows 
+     * [git workflows](workflows.md)  
+   
   1. Commands (with tipps & tricks) 
      * [git alias ](alias.md) 
      * [git add + Tipps & Tricks](add.md)
