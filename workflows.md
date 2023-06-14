@@ -6,7 +6,7 @@
 
 ## Feature Workflow 
 
-![image](https://github.com/jmetzger/training-git-sourcetree-bash/assets/1933318/d6d07140-4335-4898-bed0-abaeb99f7a59)
+![image](https://github.com/jmetzger/training-git-sourcetree-bash/assets/1933318/c3cd17d6-9f1b-4060-a8d0-1b3f03ce3932)
 
 ## Gitflow workflow 
 
