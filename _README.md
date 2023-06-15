@@ -4,7 +4,10 @@
 ## Agenda
   1. Geschichte / Grundlagen 
      * [GIT Pdf](http://schulung.t3isp.de/documents/pdfs/git/git-training.pdf)
-     
+   
+  1. Workflows 
+     * [git workflows](#git-workflows)
+   
   1. Commands (with tipps & tricks) 
      * [git alias ](#git-alias-)
      * [git add + Tipps & Tricks](#git-add-+-tipps--tricks)
@@ -101,6 +104,23 @@
 ### GIT Pdf
 
   * http://schulung.t3isp.de/documents/pdfs/git/git-training.pdf
+
+## Workflows 
+
+### git workflows
+
+
+### Centralized Workflow 
+
+![image](https://github.com/jmetzger/training-git-sourcetree-bash/assets/1933318/42fa668e-1da3-4c8c-99ba-c55493df706a)
+
+### Feature Workflow 
+
+![image](https://github.com/jmetzger/training-git-sourcetree-bash/assets/1933318/c3cd17d6-9f1b-4060-a8d0-1b3f03ce3932)
+
+### Gitflow workflow 
+
+![image](https://github.com/jmetzger/training-git-sourcetree-bash/assets/1933318/38d55a3b-87dd-4de3-a292-defd42274fe0)
 
 ## Commands (with tipps & tricks) 
 
@@ -407,7 +427,7 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 
 ### PRETTY FORMATS
 
-  * all documented in git help log (section PRETTY FORMAT)
+  * all documented in git help log (section PRETTY FORMATS)
   * https://git-scm.com/docs/git-log
   
 
@@ -504,7 +524,7 @@ git submodule update --remote training-git
 git commit -am "new version" 
 ```
 
-### Best practive 
+### Best practice 
 
 ```
 clone repo use for submodule seperately
@@ -1340,7 +1360,7 @@ git submodule update --remote training-git
 git commit -am "new version" 
 ```
 
-### Best practive 
+### Best practice 
 
 ```
 clone repo use for submodule seperately
