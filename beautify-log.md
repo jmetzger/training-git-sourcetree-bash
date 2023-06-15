@@ -10,6 +10,6 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 
 ## PRETTY FORMATS
 
-  * all documented in git help log (section PRETTY FORMAT)
+  * all documented in git help log (section PRETTY FORMATS)
   * https://git-scm.com/docs/git-log
   
