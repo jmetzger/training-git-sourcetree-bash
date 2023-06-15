@@ -19,7 +19,7 @@ git submodule update --remote training-git
 git commit -am "new version" 
 ```
 
-## Best practive 
+## Best practice 
 
 ```
 clone repo use for submodule seperately
